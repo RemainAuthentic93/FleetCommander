@@ -1,0 +1,6 @@
+{
+  "imageInitialize Command Post": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {Configure universal dev container environment for Fleet Commander operations.}
+              {Ensure "Commit directly to the Main branch" is selected}
+              {Click the green Commit changes button.}
+              
